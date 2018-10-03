@@ -126,6 +126,9 @@ footer{
   margin-bottom: 20px;
 }
 
+.Twitter:hover{
+  background-color: #7cc6ff;
+}
 footer p{
   color:white;
   margin:0;
